@@ -11,9 +11,9 @@ I'm a data analyst with a passion for uncovering insights from data and making d
 
 ## Projects
 Here are a few projects I've worked on:
-- [E-commerce Performance Dashboard](): Developed a Power BI dashboard to visualize and analyze key e-commerce performance metrics.
-- [Booking Patterns Analysis](): Performed exploratory data analysis to uncover insights related to booking patterns and customer behaviors.
-- [Sales Data Cleaning](): Cleaned and preprocessed large datasets, handling missing values and converting data types.
+- [E-commerce Performance Dashboard](https://github.com/rajveer8808/e-commerce_dashbord): Developed a Power BI dashboard to visualize and analyze key e-commerce performance metrics.
+- [Booking Patterns Analysis](https://github.com/rajveer8808/Hotel_Booking_analysis): Performed exploratory data analysis to uncover insights related to booking patterns and customer behaviors.
+- [Customer Purchase Data Cleaning](https://github.com/rajveer8808/Customer_purchase): Cleaned and preprocessed large datasets, handling missing values and converting data types.
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/rajveer8808/)
