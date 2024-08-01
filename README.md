@@ -17,7 +17,7 @@ Here are a few projects I've worked on:
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/rajveer8808/)
-- [Email] (rajveer311999@gmail.com)
+- [Email](rajveer311999@gmail.com)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project!
 
