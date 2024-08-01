@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Rajveer Singh👋
 
-<!--
-**rajveer8808/rajveer8808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a data analyst with a passion for uncovering insights from data and making data-driven decisions. As a fresher, I am eager to apply my skills in real-world projects and continuously learn and grow in the field of data analysis.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Python, SQL
+- **Data Analysis**: Pandas, Numpy, Power BI
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
+- **Tools & Technologies**: Git, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are a few projects I've worked on:
+- [E-commerce Performance Dashboard](): Developed a Power BI dashboard to visualize and analyze key e-commerce performance metrics.
+- [Booking Patterns Analysis](): Performed exploratory data analysis to uncover insights related to booking patterns and customer behaviors.
+- [Sales Data Cleaning](): Cleaned and preprocessed large datasets, handling missing values and converting data types.
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/rajveer8808/)
+- [Email](rajveer311999@gmail.com)
+
+Feel free to check out my repositories and get in touch if you'd like to collaborate on a project!
+
+
